@@ -5,9 +5,6 @@
 
 //@ts-check
 
-const path = require('path');
-const { defineConfig } = require('@vscode/test-cli');
-const os = require('os');
 
 /**
  * A list of extension folders who have opted into tests, or configuration objects.
